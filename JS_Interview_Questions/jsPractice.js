@@ -60,3 +60,5 @@ let name3 = {
 
 let printMyName = fullNamePrint.bind(name3,"Kanpurrr" ,"Kannauj");
 printMyName()
+
+
